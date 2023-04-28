@@ -1,0 +1,1 @@
+this folder consist of the first basic step to make and run a simple hello world using RUST.
